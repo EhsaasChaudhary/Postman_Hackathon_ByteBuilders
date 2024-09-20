@@ -11,7 +11,7 @@ export default function Footer() {
         <div className="flex flex-col md:flex-row justify-between items-start md:items-center space-y-6 md:space-y-0 md:space-x-10">
           {/* Company Info */}
           <div>
-            <h2 className="text-xl font-semibold">Company Name</h2>
+            <h2 className="text-xl font-semibold">Sanjivani</h2>
             <p className="text-sm">© {new Date().getFullYear()} All Rights Reserved</p>
           </div>
 
